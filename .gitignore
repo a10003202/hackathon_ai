@@ -1,0 +1,4 @@
+index
+chroma-collections.parquet
+chroma-embeddings.parquet
+.env
